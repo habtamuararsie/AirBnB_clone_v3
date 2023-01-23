@@ -14,13 +14,13 @@ File Descriptions
 Usage
 Examples of use
 Bugs
-Authors
+[Authors](Habtamu Ararsie)
 License
 Environment
-This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+This project is interpreted/tested on Ubuntu 20.04 LTS using python3 (version 3.4.3)
 
 Installation
-Clone this repository: git clone "https://github.com/alexaorrico/AirBnB_clone.git"
+Clone this repository: git clone "https://github.com/habtamuararsie/AirBnB_clone_v3.git"
 Access AirBnb directory: cd AirBnB_clone
 Run hbnb(interactively): ./console and enter command
 Run hbnb(non-interactively): echo "<command>" | ./console.py
@@ -145,9 +145,7 @@ Bugs
 No known bugs at this time.
 
 Authors
-Habtamu Ararsie - Github / Twitter
+Habtamu Ararsie https://github.com/habtamuararsie email: foryouall13@gmail.com
 
-
-Second part of Airbnb: Habtamu Ararsie
 License
 Public Domain. No copy write protection.
